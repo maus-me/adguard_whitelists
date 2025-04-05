@@ -32,7 +32,6 @@
 ||*.cymru^
 ||*.dance^
 ||*.day^
-||*.delivery^
 ||*.dental^
 ||*.diy^
 ||*.dog^
@@ -43,7 +42,6 @@
 ||*.financial^
 ||*.fishing^
 ||*.fitness^
-||*.forsale^
 ||*.fund^
 ||*.gent^
 ||*.gives^
@@ -96,17 +94,14 @@
 ||*.rich^
 ||*.rodeo^
 ||*.rugby^
-||*.sale^
 ||*.sbs^
 ||*.schule^
 ||*.sew^
-||*.shopping^
 ||*.soy^
 ||*.sport^
 ||*.srl^
 ||*.studio^
 ||*.sydney^
-||*.tattoo^
 ||*.tax^
 ||*.taxi^
 ||*.tk^$denyallow=bstweaker.tk|budterence.tk|c-r-t.tk|google.tk|goshujin.tk|kabi.tk|sironi.tk|tokelau-info.tk|xn--qubec-csa.tk|zete.tk
